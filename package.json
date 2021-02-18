@@ -6,7 +6,7 @@
   
   "scripts": {
     "start": "node ok.js",
-    "test": "node ok.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
